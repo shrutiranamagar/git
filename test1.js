@@ -1,2 +1,3 @@
-console.log("Ready for the programming journey");
+console.log("Ready for the life");
 console.log("I can do anything");
+
